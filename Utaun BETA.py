@@ -1,3 +1,4 @@
+# This file cannot be binary in apk format.
 import os
 import tempfile
 import wave
